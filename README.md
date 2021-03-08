@@ -1,2 +1,2 @@
 # Number Guessing Game JAVA
-First **Java project** 
+Simple number guessing mini project in JAVA 
